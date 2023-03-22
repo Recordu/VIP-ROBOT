@@ -98,7 +98,7 @@ PM_START_TEXT = """
 ๏𝚅𝙸𝚂𝙸𝚃 @TG\_FRIENDSS 𝙵𝙾𝚁 𝙼𝙾𝚁𝙴...
 ๏───────────────────────๏
 
-⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 🐰@THE\_VIP\_BOY⛦⃕͜🇮🇳𓊉
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 🐰@LUCIFER_IS_BOT⛦⃕͜🇮🇳𓊉
 
 
 """
@@ -107,22 +107,22 @@ buttons = [
     [
         InlineKeyboardButton(
             text="★ 𝐀𝐝𝐝 𝐌𝐞 𝐌𝐨𝐢 𝐋𝐮𝐯 ★ ",
-            url=f"https://t.me/TG_STAR_ROBOT?startgroup=true",
+            url=f"https://t.me/@LUCIFER_OP_ROBOT?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="🍁𝐆𝐑𝐎𝐔𝐏🍁", url=f"https://t.me/Tg_Friendss"),
+        InlineKeyboardButton(text="🍁𝐆𝐑𝐎𝐔𝐏🍁", url=f"https://t.me/riskybot67"),
         InlineKeyboardButton(text="⚙️𝐇𝐄𝐋𝐏⚙️", callback_data="help_back"),
     ],
     [
         
-        InlineKeyboardButton(text="🌷𝐎𝐰𝐧𝐞𝐫🌷", url=f"https://t.me/THE_VIP_BOY"),
-        InlineKeyboardButton(text="🥀𝐎𝐅𝐅𝐈𝐂𝐄🥀", url=f"https://t.me/vip_creators"),
+        InlineKeyboardButton(text="🌷𝐎𝐰𝐧𝐞𝐫🌷", url=f"https://t.me/"LUCIFER_IS_STAR"),
+        InlineKeyboardButton(text="🥀𝐎𝐅𝐅𝐈𝐂𝐄🥀", url=f"https://t.me/riskybot67"),
     ],
     [
         InlineKeyboardButton(
             text="🌱𝐒𝐎𝐔𝐑𝐂𝐄🌱",
-            url=f"https://github.com/THE-VIP-BOY-OP/VIP-ROBOT",
+            url=f"LAND LE LO VAII",
         ),
     ],
 ]
@@ -143,9 +143,9 @@ HELP_STRINGS = f"""
 ╔═════❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱════❍⊱❁۪۪
 ║
 ║┏━━━━━━➣
-║┣⪼ 𝙾𝚆𝙽𝙴𝚁 ➪ @THE\_VIP\_BOY
-║┣⪼ 𝙶𝚁𝙾𝚄𝙿 ➪ @TG\_FRIENDSS
-║┣⪼ 𝙾𝙵𝙵𝙸𝙲𝙴 ➪ @VIP\_CREATORS
+║┣⪼ 𝙾𝚆𝙽𝙴R LUCIFER_IS_STAR
+║┣⪼ 𝙶𝚁𝙾𝚄𝙿 - riskybot67
+║┣⪼ 𝙾𝙵𝙵𝙸𝙲𝙴 ➪ @riskybot67
 ║┗━━━━━━➣
 ║
 ╚═════════════════❍⊱❁۪۪
